@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011394486154",
+    "project_id": "requisition-application-64780",
+    "storage_bucket": "requisition-application-64780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011394486154:android:f5b02cb3c44433f826b273",
+        "android_client_info": {
+          "package_name": "com.aws.requisitionapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011394486154-bncmkeme5nhnqe2ifjgkgb0ke3tp1ojp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATmlryoD0kDSzL3hMfY3r-EPxjVdNwZH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011394486154-bncmkeme5nhnqe2ifjgkgb0ke3tp1ojp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

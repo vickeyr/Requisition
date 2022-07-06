@@ -1,0 +1,11 @@
+{
+    "react-native": {
+        "analytics_auto_collection_enabled": true,
+        "messaging_auto_init_enabled": false,
+        "messaging_ios_auto_register_for_remote_messages": true,
+        "messaging_android_headless_task_timeout": 30000,
+        "messaging_android_notification_channel_id": "high-priority",
+        "android_task_executor_maximum_pool_size": 10,
+        "android_task_executor_keep_alive_seconds": 3
+    }
+}
